@@ -32,7 +32,7 @@ The following images show the statistical summary of mpg and other specification
 <img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D1-summary_statistics.png width="70%" height="70%">
 
 + Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-	+ The vehicle length and the ground clearance of MechaCar, which has a `Pr(>|t|)` value of 2.60e-12 and 5.215-08, respectively, provides a non-random amount of variance to the mpg value, meaning that they have a significant influence on the miles per gallon values or the car's fuel efficiency.
+	+ The vehicle length and the ground clearance of MechaCar, which has a `Pr(>|t|)` value of 2.60e-12 and 5.215-08, respectively, provides a non-random amount of variance to the mpg value, meaning that they have a significant influence on the miles per gallon (mpg) values or the car's fuel efficiency.
 
 + Is the slope of the linear model considered to be zero? Why or why not?
 	+ The p-value of this multiple linear regression model is 5.35e-11, which is much smaller than 0.05, this implies that there is enough evidence to reject the null hypothesis, in other words, the slope of this linear model is not zero, or that there is a significant linear relationship between mpg and other MechaCar's specifications.
@@ -58,7 +58,7 @@ The following images show the PSI's summary statistics of all manufacturing lot 
 
 	+ When looking at the statistics of the overall manufacturing lots, the PSI variance for the total manufacturing lots is 62.29 psi, less than 100 psi limit, indicating that the total manufacturing lots meets the design specification.
 
-	+ When breaking down to each of the manufacturing lot, lot 1 and lot 2 still meets the design specification as their variances are 0.98 and 7.47, respectively, which are lower than 100 psi. However, the variance of the manufacturing lot 3 is as high as 170.29 psi, considerably higher than 100 psi, meaning that lot 3 are out of spec. 
+	+ When breaking down to each of the manufacturing lot, lot 1 and lot 2 still meets the design specification as their variances are 0.98 and 7.47, respectively, which are lower than 100 psi. However, the variance of the manufacturing lot 3 is as high as 170.29 psi, considerably higher than 100 psi, meaning that the smaples in lot 3 are out of spec. 
 
 
 ## Deliverable 3: T-Tests on Suspension Coils
@@ -90,9 +90,9 @@ The following images show the t-test statistical values of all lots and between 
 |All manufacturing lots|0.06028|not statistically significant|
 |Manufacturing lot 1|1|not statistically significant|
 |Manufacturing lot 2|0.6072|not statistically significant|
-|**Manufacturing lot 3**|**0.04168**|**statistically significant**|
+|**Manufacturing lot 3**|**0.04168**|**statistically significant (p-value < 0.05)**|
 
-**Assuming our significance level is 0.05 percent (p=0.05)**
+**Assuming our significance level is 0.05 percent (p-value = 0.05)**
 
 The p-value of total manufacturing lots, the manufacturing lot 1 and the manufacturing lot 2 are 0.06, 1, and 0.61, respectively, which are larger than 0.05, meaning that there is not enough evidence to reject the null hypothesis, in shorts, the means of total lots, lot 1, lot 2 and the population mean are statistically similar.
 

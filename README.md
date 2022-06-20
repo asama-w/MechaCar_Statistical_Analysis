@@ -71,18 +71,18 @@ Performing T-Tests to determine whether there is a statistical difference betwee
 The following images show the t-test statistical values of all lots and between individual lot.
 
 ### T-test for PSI across all manufacturing lots
-<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_all.png width="70%" height="70%">
+<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_all.png width="80%" height="80%">
 
 ### T-test for PSI across each manufacturing lots (Lot 1, 2, and 3)
 
 #### Lot 1
-<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_1.png width="70%" height="70%">
+<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_1.png width="80%" height="80%">
 
 #### Lot 2
-<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_2.png width="70%" height="70%">
+<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_2.png width="75%" height="75%">
 
 #### Lot 3
-<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_3.png width="70%" height="70%">
+<img src= https://github.com/asama-w/MechaCar_Statistical_Analysis/blob/main/Images_report/D3-t-test_lot_3.png width="75%" height="75%">
 
 
 |Data lot|p-value|Note|

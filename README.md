@@ -128,5 +128,5 @@ The top considerations that come in mind when buying a car are cost, safety and 
 + **Summary Statistic and T-tests** analysis will be used to compare the mean of MechaCar's and other competitor's vehicles maintenance cost and performances.
 
 ### Required data
-+ Performance data of MechaCar's and its competitors' vehicles.
++ Performance data and safety rating data of MechaCar's and its competitors' vehicles.
 + Selling and maintenance price data of MechaCar's and its competitors' vehicles over the past few years.

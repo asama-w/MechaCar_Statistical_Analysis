@@ -88,9 +88,9 @@ The following images show the t-test statistical values of all lots and between 
 |Data lot|p-value|Note|
 |-----|:-----:|:-----:|
 |All manufacturing lots|0.06028|not statistically significant|
-|Manufacturing lot 1|1|not statistically significant|
-|Manufacturing lot 2|0.6072|not statistically significant|
-|**Manufacturing lot 3**|**0.04168**|**statistically significant (p-value < 0.05)**|
+|Manufacturing Lot 1|1|not statistically significant|
+|Manufacturing Lot 2|0.6072|not statistically significant|
+|**Manufacturing Lot 3**|**0.04168**|**statistically significant (p-value < 0.05)**|
 
 **Assuming our significance level is 0.05 percent (p-value = 0.05)**
 

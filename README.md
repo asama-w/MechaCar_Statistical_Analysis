@@ -114,18 +114,18 @@ The top considerations that come in mind when buying a car are cost, safety and 
 
 ### Hypotheses:
 1. One statistical analysis could be performed to determine the relationship between the car performance (horse power, safety rating) vs price, of MechaCar and other vehicles in the market, in order to see whether MechaCar is reasonably-priced, under-priced, or over-priced when compare with other brands. The hypotheses of this analysis would be as follows: 
-+ **Null Hypothesis, H<sub>0</sub>:** There is no linear relationship of vehicle's price and its performances, the price is not based on the performance factors of vehicle.
-+ **Alternative Hypothesis, H<sub>a</sub>:** There is a linear relationship of vehicle's price and its performances, the price is based on the performance factors of vehicle.
+	+ **Null Hypothesis, H<sub>0</sub>:** There is no linear relationship of vehicle's price and its performances, the price is not based on the performance factors of vehicle.
+	+ **Alternative Hypothesis, H<sub>a</sub>:** There is a linear relationship of vehicle's price and its performances, the price is based on the performance factors of vehicle.
 
 2. Another statistical analysis could be the summary statistics (mean, median, variance, sd) of the safety ratings and the maintenance cost of MechaCar and its competitors over the past few years.
-+ **Null Hypothesis, H<sub>0</sub>:** There is no statistical difference between the performance mean of MechaCar and the similar model of other brands.
-+ **Alternative Hypothesis, H<sub>a</sub>:** There is a statistical difference between the performance mean of MechaCar and the similar model of other brands.
+	+ **Null Hypothesis, H<sub>0</sub>:** There is no statistical difference between the performance mean of MechaCar and the similar model of other brands.
+	+ **Alternative Hypothesis, H<sub>a</sub>:** There is a statistical difference between the performance mean of MechaCar and the similar model of other brands.
 
 
 ### Statistical Test:
-**The multiple linear regression** analysis will be used to test the price vs performance hypotheses, since it can shows the relationships between multiple independent variables (horse power, safety rating) and the dependent variable (price).
++ **Multiple linear regression** analysis will be used to test the price vs performance hypotheses, since it can shows the relationships between multiple independent variables (horse power, safety rating) and the dependent variable (price).
 
-**Summary Statistic and T-tests** analysis will be used to compare the mean of MechaCar's and other competitor's vehicles maintenance cost and performances.
++ **Summary Statistic and T-tests** analysis will be used to compare the mean of MechaCar's and other competitor's vehicles maintenance cost and performances.
 
 ### Required data
 + Performance data of MechaCar's and its competitors' vehicles.
